@@ -4,6 +4,16 @@ An animated, true-color orca that plays whenever a terminal opens. The artwork u
 
 The default animation plays 23 frames at 10 fps and lasts about 2.3 seconds.
 
+
+## Preview
+
+<p align="center">
+  <img src="./assets/orca-splash.gif"
+       alt="Animated Orca ASCII terminal splash"
+       width="900">
+</p>
+
+
 ## Requirements
 
 ### macOS
